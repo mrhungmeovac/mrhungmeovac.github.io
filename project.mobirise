@@ -474,7 +474,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/wp-20190701-09-13-30-raw-highres.jpg",
+              "src": "@PROJECT_PATH@/assets/images/roomchik.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
