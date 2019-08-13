@@ -174,7 +174,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "showArrow": true,
+            "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/front-1024x576.jpeg",
@@ -919,8 +919,8 @@
         {
           "_params": {
             "googleMap": {
-              "address": "mr hung italian restaurant",
-              "placeId": "ChIJ-WTY9QvDyzYRKdtYY5DHSjg",
+              "address": "Mr Hunghotel Meo Vac.\nNumber of houses 46 Nguyen du road town, TT. Mèo Vạc, Mèo Vạc, Hà Giang",
+              "placeId": "ChIJcay_7KHCyzYR-U9Un_kd5zw",
               "state": "ok",
               "stateDetails": ""
             }
@@ -945,8 +945,8 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
-          "text1": "<p><strong>Address</strong><br><a href=\"https://goo.gl/maps/aTeon4Q7jmYSioe89\" target=\"_blank\">TT. Mèo Vạc, Mèo Vạc, Hà Giang</a><br><br>\n<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:mrhungmeovac@gmail.com\">mrhungmeovac@gmail.com</a><br>\nPhone: <a href=\"tel:+84868870444\">+84868870444&nbsp;</a>&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"tel:+84338280260\">+84338280260</a></p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"tel:+84971689994\">+84971689994</a></p>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"https://www.tripadvisor.com/Restaurant_Review-g3389597-d14887924-Reviews-Mr_Hung_Italian_Restaurant_Wine_Bar_Meo_Vac-Meo_Vac_Ha_Giang_Province.html\" target=\"_blank\">TripAdviser Restaurant</a></li><li><a href=\"https://www.tripadvisor.com/Hotel_Review-g3389597-d14050985-Reviews-Mr_Hung_Hotel-Meo_Vac_Ha_Giang_Province.html\" target=\"_blank\">TripAdviser Hotel</a></li><li><a href=\"https://www.facebook.com/mrhungtravel/\" target=\"_blank\">Facebook</a></li><li><a class=\"text-white\" href=\"https://www.booking.com/hotel/vn/mr-hung-meo-vac.ru.html?label=gen173nr-1FCAEoggI46AdIM1gEaPQBiAEBmAEhuAEYyAEN2AEB6AEB-AELiAIBqAIEuAL2qrnqBcACAQ;sid=fbce4a9f14022972b845d49b393ccb50;dest_id=-3721435;dest_type=city;dist=0;group_adults=2;hapos=1;hpos=1;room1=A%2CA;sb_price_type=total;sr_order=popularity;srepoch=1565414784;srpvid=c7fd26404258012f;type=total;ucfs=1&amp;#hotelTmpl\" target=\"_blank\">Booking</a></li></ul>",
+          "text1": "<p><strong>Address</strong><br><a href=\"https://goo.gl/maps/zLgJaCZQ8kyKx8nx9\" target=\"_blank\">46 Nguyen du road town, TT. Mèo Vạc, Mèo Vạc, Hà Giang</a></p><br><p><strong>Contacts</strong><br></p><p>\nEmail: <a href=\"mailto:mrhungmeovac@gmail.com\">mrhungmeovac@gmail.com</a><br>\nPhone: <a href=\"tel:+84868870444\">+84868870444&nbsp;</a>&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"tel:+84338280260\">+84338280260</a></p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"tel:+84971689994\">+84971689994</a></p>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"https://www.tripadvisor.com/Restaurant_Review-g3389597-d14887924-Reviews-Mr_Hung_Italian_Restaurant_Wine_Bar_Meo_Vac-Meo_Vac_Ha_Giang_Province.html\" target=\"_blank\">TripAdvisor Restaurant</a></li><li><a href=\"https://www.tripadvisor.com/Hotel_Review-g3389597-d14050985-Reviews-Mr_Hung_Hotel-Meo_Vac_Ha_Giang_Province.html\" target=\"_blank\">TripAdvisor Hotel</a></li><li><a href=\"https://www.facebook.com/mrhungtravel/\" target=\"_blank\">Facebook</a></li><li><a class=\"text-white\" href=\"https://www.booking.com/hotel/vn/mr-hung-meo-vac.ru.html?label=gen173nr-1FCAEoggI46AdIM1gEaPQBiAEBmAEhuAEYyAEN2AEB6AEB-AELiAIBqAIEuAL2qrnqBcACAQ;sid=fbce4a9f14022972b845d49b393ccb50;dest_id=-3721435;dest_type=city;dist=0;group_adults=2;hapos=1;hpos=1;room1=A%2CA;sb_price_type=total;sr_order=popularity;srepoch=1565414784;srpvid=c7fd26404258012f;type=total;ucfs=1&amp;#hotelTmpl\" target=\"_blank\">Booking</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "mrhungmeovac@gmail.com",
