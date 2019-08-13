@@ -474,7 +474,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/wp-20190701-09-13-30-raw-highres-600x338.jpg",
+              "src": "@PROJECT_PATH@/assets/images/wp-20190701-09-13-30-raw-highres.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -485,7 +485,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/wp-20190701-12-31-44-raw-highres-600x338.jpg",
+              "src": "@PROJECT_PATH@/assets/images/room2.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
