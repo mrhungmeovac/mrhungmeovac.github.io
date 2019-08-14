@@ -347,8 +347,8 @@
                 "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/p8117680-2.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p8117680-2-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p8117680-5.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p8117680-5-800x600.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here"
