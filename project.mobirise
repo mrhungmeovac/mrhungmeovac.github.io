@@ -416,7 +416,7 @@
             "overlayOpacity": 0.5
           },
           "title": "HOTEL",
-          "text": "<p>We have confortable rooms with hot shower, with or no A/C</p><p>Take a rest here after a long trip</p>",
+          "text": "<p>Take a rest here after a long trip<br></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -454,11 +454,11 @@
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
-            "ShowTexts": true,
+            "ShowTexts": false,
             "showButtons": true,
             "paddingTop": "0",
             "paddingBottom": 2,
-            "columns": "2",
+            "columns": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -496,10 +496,13 @@
           },
           "media3": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/room3.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media4": {
@@ -526,14 +529,14 @@
               "active": true
             }
           },
-          "title1": "Double deluxe room",
-          "subtitle1": "2 king size beds",
-          "caption1": "Large room which is enough for 4 people<br>",
+          "title1": "Balcony deluxe room",
+          "subtitle1": "Large room with 2 beds, balcony, refrigerator",
+          "caption1": "Large room with 2 beds, balcony, refrigerator<br>",
           "title2": "Deluxe room",
-          "subtitle2": "1 king size bed",
+          "subtitle2": "Spacious room with 2 beds, refrigerator",
           "caption2": "Spacious room for 1-2 persons<br>",
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "title3": "Double room",
+          "subtitle3": "Normal room with 1 double bed",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom to develop",
@@ -546,7 +549,7 @@
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"https://www.booking.com/hotel/vn/mr-hung-meo-vac.ru.html?label=gen173nr-1FCAEoggI46AdIM1gEaPQBiAEBmAEhuAEYyAEN2AEB6AEB-AELiAIBqAIEuAL2qrnqBcACAQ;sid=fbce4a9f14022972b845d49b393ccb50;dest_id=-3721435;dest_type=city;dist=0;group_adults=2;hapos=1;hpos=1;room1=A%2CA;sb_price_type=total;sr_order=popularity;srepoch=1565414784;srpvid=c7fd26404258012f;type=total;ucfs=1&amp;#hotelTmpl\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Book it</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://www.booking.com/hotel/vn/mr-hung-meo-vac.ru.html?label=gen173nr-1FCAEoggI46AdIM1gEaPQBiAEBmAEhuAEYyAEN2AEB6AEB-AELiAIBqAIEuAL2qrnqBcACAQ;sid=fbce4a9f14022972b845d49b393ccb50;dest_id=-3721435;dest_type=city;dist=0;group_adults=2;hapos=1;hpos=1;room1=A%2CA;sb_price_type=total;sr_order=popularity;srepoch=1565414784;srpvid=c7fd26404258012f;type=total;ucfs=1&amp;#hotelTmpl\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Book it</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.booking.com/hotel/vn/mr-hung-meo-vac.ru.html?label=gen173nr-1FCAEoggI46AdIM1gEaPQBiAEBmAEhuAEYyAEN2AEB6AEB-AELiAIBqAIEuAL2qrnqBcACAQ;sid=fbce4a9f14022972b845d49b393ccb50;dest_id=-3721435;dest_type=city;dist=0;group_adults=2;hapos=1;hpos=1;room1=A%2CA;sb_price_type=total;sr_order=popularity;srepoch=1565414784;srpvid=c7fd26404258012f;type=total;ucfs=1&amp;#hotelTmpl\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Book it</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
