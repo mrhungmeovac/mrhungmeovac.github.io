@@ -258,7 +258,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>We offer you Italian cuisine dishes such as a Pizza, Pasta, Lasagne, Salads, homemade Bread...</p><p>Soft drinks, super delicious vietnamese coffee or fruits shakes</p><p>Red or white wine, cocktails, strong drinks</p><p>&nbsp;Vietnamese cuisine too!</p>",
+          "text": "<p>In our restaurant you can enjoy Italian dishes such as <b>Pizza, Pasta, Lasagne, Salads, homemade Bread...</b></p><p><b><br></b></p><p>We can offer you a variety of drinks:&nbsp;<b>super delicious vietnamese coffee, fruits shakes.</b></p><p><b><br></b></p><p>And some alcoholic beverages:<b>&nbsp;r</b><b>ed or white wine, cocktails, strong drinks.</b></p><p><br></p><p>We cook vietnamese cuisine as well.</p>",
           "_tags": [
             "Theme"
           ],
