@@ -258,7 +258,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>In our restaurant you can enjoy Italian dishes such as <b>Pizza, Pasta, Lasagne, Salads, homemade Bread...</b></p><p><b><br></b></p><p>We can offer you a variety of drinks:&nbsp;<b>super delicious vietnamese coffee, fruits shakes.</b></p><p><b><br></b></p><p>And some alcoholic beverages:<b>&nbsp;r</b><b>ed or white wine, cocktails, strong drinks.</b></p><p><br></p><p>We cook vietnamese cuisine as well.</p>",
+          "text": "<p>In our restaurant you can enjoy Italian dishes such as <b>Pizza, Pasta, Lasagne, Salads, homemade Bread...</b></p><p><b><br></b></p><p>We can offer you a variety of drinks:&nbsp;<b>super delicious vietnamese coffee, fruits shakes.</b></p><p><b><br></b></p><p>And some alcoholic beverages:<b>&nbsp;r</b><b>ed or white wine, cocktails, strong drinks.</b></p><p><br></p><p>We cook Vietnamese cuisine as well.</p>",
           "_tags": [
             "Theme"
           ],
@@ -289,20 +289,20 @@
                 "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/p8137689.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p8137689-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p8107652.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/p8107652-800x580.jpeg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Responsive",
                 "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/p8107664-1024x768.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p8107664-1024x768-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p8107666.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p8107666-800x600.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here"
@@ -323,23 +323,24 @@
                 "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/p8107658-1024x768.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p8107658-1024x768-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p8137698.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p8137698-800x600.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Awesome",
                 "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/p8107650-1024x768.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p8107650-1024x768-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p8137689-2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p8137689-2-800x600.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Beautiful",
