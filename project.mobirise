@@ -63,7 +63,7 @@
     "botbody": "",
     "google-analytics": "",
     "siteUrl": "undefined",
-    "uniqCompNum": 24,
+    "uniqCompNum": 28,
     "versionPublish": "4.10.7",
     "screenshot": "screenshot.png"
   },
@@ -417,7 +417,7 @@
             "overlayOpacity": 0.5
           },
           "title": "HOTEL",
-          "text": "<p>Take a rest here after a long trip<br></p>",
+          "text": "<p>Take a rest after a long trip.&nbsp;<br></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -426,39 +426,14 @@
           "_anchor": "msg-box8-5"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-size": "36px"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgColor": "#fff"
-          },
-          "title": "Check our rooms and book it&nbsp;",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-7"
-        },
-        {
           "_params": {
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": false,
             "showButtons": true,
-            "paddingTop": "0",
-            "paddingBottom": 2,
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "columns": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -559,6 +534,29 @@
           ],
           "_name": "features3",
           "_anchor": "features3-6"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "30px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "<span style=\"font-weight: normal;\">We recomend you to stay here for at least 3 days to explore the area arround Meo Vac, visit the vilages of minorities and dive a bit to the local life</span><div><br></div>",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-r"
         },
         {
           "_params": {
@@ -778,7 +776,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "Or you can explore the area by yourself",
+          "title": "or you can explore the area by yourself",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"

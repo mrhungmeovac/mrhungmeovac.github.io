@@ -11,7 +11,6 @@
 
 
 
-
 body,
 input,
 textarea,
@@ -563,13 +562,12 @@ section.form .container {
 #msg-box8-5 .mbr-section-title {
   font-size: 36px;
 }
-#header3-7 .mbr-section-title,
-#header3-7 .mbr-section-subtitle {
+#header3-r .mbr-section-title,
+#header3-r .mbr-section-subtitle {
   text-align: center;
 }
-#header3-7 .mbr-section-title {
-  font-family: 'Montserrat', sans-serif;
-  font-size: 36px;
+#header3-r .mbr-section-title {
+  font-size: 30px;
 }
 #header2-b .mbr-section-text {
   font-size: 20px;
