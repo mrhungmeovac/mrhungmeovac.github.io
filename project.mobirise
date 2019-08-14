@@ -285,7 +285,7 @@
             "filter": false,
             "images": [
               {
-                "tags": "Awesome",
+                "tags": "Creative",
                 "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -293,8 +293,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/p8107652-800x600.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here",
-                "active": true
+                "caption": "Type caption here"
               },
               {
                 "tags": "Responsive",
@@ -303,17 +302,6 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/p8107666.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/p8107666-800x600.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/p8107663-2-1024x768.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p8107663-2-1024x768-800x600.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here"
@@ -335,6 +323,18 @@
                 "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/p8107656.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p8107656-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/p8137689-2.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/p8137689-2-800x600.jpg",
                 "alt": "",
@@ -347,8 +347,8 @@
                 "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/p8107674-1024x768.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p8107674-1024x768-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p8117680-2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p8117680-2-800x600.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here"
