@@ -24,7 +24,8 @@
         "#1f7832",
         "#491f1e",
         "#f17855",
-        "#150c0b"
+        "#150c0b",
+        "#5b5b5b"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -63,7 +64,7 @@
     "botbody": "",
     "google-analytics": "",
     "siteUrl": "undefined",
-    "uniqCompNum": 28,
+    "uniqCompNum": 34,
     "versionPublish": "4.10.7",
     "screenshot": "screenshot.png"
   },
@@ -147,7 +148,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-2\">RESTAURANT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-5\">HOTEL</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-k\">TOURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts4-i\">CONTACTS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-2\">RESTAURANT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-5\">HOTEL</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-d\">TOURS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts4-i\">CONTACTS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -189,25 +190,21 @@
             "overlayColor": "#000",
             "overlayOpacity": "0.3"
           },
-          "title": "Mr. HUNG",
-          "text": "<b>Hotel &amp; Restaurant </b><br><b>in Meo Vac, Ha Giang</b>",
+          "title": "Mr. HUNG<br>",
+          "text": "Hotel &amp; Restaurant <br>in Meo Vac, Ha Giang",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "header1",
-          "_anchor": "header1-o",
+          "_anchor": "header1-v",
           "_styles": {
             ".mbr-section-title": {
+              "font-size": "80px",
               "font-family": "'Acme', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Acme:400",
-              "font-size": "80px"
+              "googleLink": "https://fonts.googleapis.com/css?family=Acme:400"
             },
             ".mbr-section-lead": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            },
-            ".mbr-section-lead B": {
               "font-size": "46px",
               "font-family": "'Acme', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Acme:400"
@@ -258,7 +255,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>In our restaurant you can enjoy Italian dishes such as <b>Pizza, Pasta, Lasagne, Salads, homemade Bread...</b></p><p><b><br></b></p><p>We can offer you a variety of drinks:&nbsp;<b>super delicious vietnamese coffee, fruits shakes.</b></p><p><b><br></b></p><p>And some alcoholic beverages:<b>&nbsp;r</b><b>ed or white wine, cocktails, strong drinks.</b></p><p><br></p><p>We cook Vietnamese cuisine as well.</p>",
+          "text": "The restaurant is located next to Mr. Hung Hotel. This is a place to relax and enjoy home-cooked meals in a pleasant atmosphere.<div>You can choose to sit inside the big hall with ceiling-to-floor window or outside at the open-air veranda.</div><div>Our menu features delicious and familiar Italian mains, wine and fresh drinks.</div><div>Despite our name, we offer Vietnamese cuisine as well. Try some of traditional sets, hot pot or fresh spring rolls set. Our Vietnamese dishes have options for vegetarians.</div><div>After a good meal, you can continue to chat at the pool table on the rooftop while sipping beers or our bar cocktails.</div>",
           "_tags": [
             "Theme"
           ],
@@ -267,7 +264,7 @@
           "_styles": {
             "P": {
               "text-align": "center",
-              "font-size": "20px"
+              "font-size": "18px"
             }
           }
         },
@@ -278,7 +275,7 @@
             "fullWidth": true,
             "spacing": 1,
             "paddingTop": "0",
-            "paddingBottom": 1,
+            "paddingBottom": "0",
             "filterBgColor": true,
             "bgColor": "#ffffff",
             "showText": false,
@@ -286,33 +283,34 @@
             "images": [
               {
                 "tags": "Creative",
-                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/p8107652.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p8107652-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/38023589-449286618886619-8797699765178466304-n.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/38023589-449286618886619-8797699765178466304-n-800x600.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Responsive",
-                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/p8107666.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p8107666-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/38200115-449287078886573-1299838574727790592-n.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/38200115-449287078886573-1299838574727790592-n-800x600.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here"
               },
               {
                 "tags": "Animated",
-                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/p8137698.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p8137698-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p8137698-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p8137698-1-800x600.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -320,7 +318,7 @@
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/p8107656.jpg",
@@ -328,11 +326,11 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/p8137689-2.jpg",
@@ -344,7 +342,7 @@
               },
               {
                 "tags": "Beautiful",
-                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/p8117680-5.jpg",
@@ -355,7 +353,7 @@
               },
               {
                 "tags": "Responsive",
-                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/food-4-750x500.jpeg",
@@ -366,14 +364,15 @@
               },
               {
                 "tags": "Animated",
-                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/cooky-recipe-cover-r34097-800x500.jpeg",
                 "thumb": "@PROJECT_PATH@/assets/images/cooky-recipe-cover-r34097-800x500-666x500.jpeg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": true
               }
             ]
           },
@@ -399,10 +398,10 @@
           },
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "4",
+            "paddingBottom": "5",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/reception-1024x576.jpg",
             "parallax": true,
@@ -416,8 +415,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "HOTEL",
-          "text": "<p>Take a rest after a long trip.&nbsp;<br></p>",
+          "title": "Welcome to Mr. Hung Hotel in Meo Vac",
+          "text": "<p>We hope you will enjoy of your stay here<br></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -506,13 +505,13 @@
             }
           },
           "title1": "Balcony deluxe room",
-          "subtitle1": "Large room with 2 beds, balcony, refrigerator",
+          "subtitle1": "* 2 Queen-size beds (2 or 4 people)<br>* Tea table with chairs<br>* Panoramic window, balcony <br>* Flat screen TV, refrigerator<br>* Hot shower<br>* AC / Fan",
           "caption1": "Large room with 2 beds, balcony, refrigerator<br>",
           "title2": "Deluxe room",
-          "subtitle2": "Spacious room with 2 beds, refrigerator",
+          "subtitle2": "* 2 Queen-size beds (2 or 4 people)<br>* Tea table with chairs<br><div>* Flat screen TV</div><div>* Hot shower</div><div>* AC / Fan</div>",
           "caption2": "Spacious room for 1-2 persons<br>",
           "title3": "Double room",
-          "subtitle3": "Normal room with 1 double bed",
+          "subtitle3": "* 1 Queen-size bed (1 or 2 people)<div>* Tea table with chairs</div><div>* Flat screen TV</div><div>* Hot shower</div><div>* AC / Fan</div>",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom to develop",
@@ -533,7 +532,15 @@
             "Theme"
           ],
           "_name": "features3",
-          "_anchor": "features3-6"
+          "_anchor": "features3-6",
+          "_styles": {
+            "H5": {
+              "font-size": "17px"
+            },
+            "H4": {
+              "font-size": "22px"
+            }
+          }
         },
         {
           "_styles": {
@@ -541,7 +548,11 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "font-size": "30px"
+              "font-size": "30px",
+              "color": "#5b5b5b"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "20px"
             }
           },
           "_params": {
@@ -614,29 +625,6 @@
               "text-align": "right"
             }
           }
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "font-size": "36px"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgColor": "#fff"
-          },
-          "title": "Our tour service is at your service for the convenience of exploring the area",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-k"
         },
         {
           "_params": {
@@ -762,27 +750,64 @@
           }
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            ".mbr-section-title": {
-              "font-size": "36px"
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "src": "https://youtu.be/3zziSiK0mWw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
             }
           },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": "3",
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
           "title": "or you can explore the area by yourself",
-          "meta": "By John Smith posted July 20, 2016",
+          "text": "You can explore the area by yourself. <br>Feel free to ask inforation about places.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-c"
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-t",
+          "_styles": {
+            "B": {
+              "font-size": "25px"
+            },
+            "P": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "20px",
+              "color": "#5b5b5b"
+            }
+          }
         },
         {
           "_inherit": "gallery1",
@@ -799,7 +824,7 @@
             "images": [
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/pa110121-1600x1200.jpg",
@@ -811,7 +836,7 @@
               },
               {
                 "tags": "Responsive",
-                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/wp-20171014-14-00-39-pro-highres-2000x1129.jpeg",
@@ -822,7 +847,7 @@
               },
               {
                 "tags": "Creative",
-                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/pa130311-2-1024x768.jpg",
@@ -834,18 +859,18 @@
               },
               {
                 "tags": "Animated",
-                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/pa080080-2-1024x768.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/pa080080-2-1024x768-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p8187898.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p8187898-800x600.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Meo Vac market"
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/pa251668-1600x1200.jpg",
@@ -856,7 +881,7 @@
               },
               {
                 "tags": "Beautiful",
-                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/pa251678-1600x1200.jpg",
@@ -867,25 +892,26 @@
               },
               {
                 "tags": "Responsive",
-                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/pa110133-1600x1200.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/pa110133-1600x1200-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pa110122.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pa110122-800x600.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "The view from the tower"
+                "caption": "Meo Vac Town",
+                "active": false
               },
               {
                 "tags": "Animated",
-                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
-                "playVideo": true,
-                "videoUrl": "https://youtu.be/3zziSiK0mWw",
-                "image": "@PROJECT_PATH@/assets/images/pa251727-1600x1200.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/pa251727-1600x1200-800x600.jpg",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "",
+                "image": "@PROJECT_PATH@/assets/images/pa251656.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pa251656-800x600.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Road movie",
+                "caption": "Meo Vac street",
                 "active": true
               }
             ]
@@ -907,7 +933,7 @@
           "_params": {
             "showMeta": false,
             "paddingTop": "1",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgColor": "#fff"
           },
           "title": "How to find us",

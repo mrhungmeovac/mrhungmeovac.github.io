@@ -530,14 +530,11 @@ section.form .container {
 #menu-1 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#header1-o .mbr-section-title {
-  font-family: 'Acme', sans-serif;
+#header1-v .mbr-section-title {
   font-size: 80px;
+  font-family: 'Acme', sans-serif;
 }
-#header1-o .mbr-section-lead {
-  font-family: 'Raleway', sans-serif;
-}
-#header1-o .mbr-section-lead B {
+#header1-v .mbr-section-lead {
   font-size: 46px;
   font-family: 'Acme', sans-serif;
 }
@@ -550,7 +547,7 @@ section.form .container {
 }
 #content1-r P {
   text-align: center;
-  font-size: 20px;
+  font-size: 18px;
 }
 #msg-box8-5 .mbr-section-title,
 #msg-box8-5 p {
@@ -562,23 +559,26 @@ section.form .container {
 #msg-box8-5 .mbr-section-title {
   font-size: 36px;
 }
+#features3-6 H5 {
+  font-size: 17px;
+}
+#features3-6 H4 {
+  font-size: 22px;
+}
 #header3-r .mbr-section-title,
 #header3-r .mbr-section-subtitle {
   text-align: center;
 }
 #header3-r .mbr-section-title {
   font-size: 30px;
+  color: #5b5b5b;
+}
+#header3-r .mbr-section-title SPAN {
+  font-size: 20px;
 }
 #header2-b .mbr-section-text {
   font-size: 20px;
   text-align: right;
-}
-#header3-k .mbr-section-title,
-#header3-k .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-k .mbr-section-title {
-  font-size: 36px;
 }
 #features1-d .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
@@ -591,12 +591,13 @@ section.form .container {
   font-family: 'Raleway', sans-serif;
   font-size: 30px;
 }
-#header3-c .mbr-section-title,
-#header3-c .mbr-section-subtitle {
-  text-align: center;
+#msg-box5-t B {
+  font-size: 25px;
 }
-#header3-c .mbr-section-title {
-  font-size: 36px;
+#msg-box5-t P {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  color: #5b5b5b;
 }
 #header3-e .mbr-section-title,
 #header3-e .mbr-section-subtitle {
