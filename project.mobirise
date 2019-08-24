@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "mr. Hung Meo Vac",
-    "currentPage": "menu.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -72,8 +72,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Mr Hung Hotel & Restaurant in Meo Vac",
+        "meta_descr": "Hotel, restaurant, tourist service, information.\nMeo Vac, Ha Giang, North Vietnam.\n",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -1013,7 +1013,7 @@
     },
     "menu.html": {
       "settings": {
-        "meta_descr": "",
+        "meta_descr": "Italian Restaurant in Meo Vac",
         "title": "Menu",
         "order": 1
       },
@@ -1300,7 +1300,7 @@
     },
     "Gallery.html": {
       "settings": {
-        "meta_descr": "",
+        "meta_descr": "Ha Giang motorbike tours. What to see at Meo Vac area. North Vietnam",
         "title": "Gallery",
         "order": 2
       },
