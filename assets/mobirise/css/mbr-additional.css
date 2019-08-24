@@ -424,6 +424,9 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #c0a375;
 }
+.scrollToTop_wraper {
+  display: none;
+}
 .form-control {
   padding: 0.9rem;
 }

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "mr. Hung Meo Vac",
-    "currentPage": "index.html",
+    "currentPage": "menu.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -17,7 +17,7 @@
         "textFont": "Raleway",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": true,
+        "isScrollToTopButton": false,
         "isRtl": false
       },
       "additionalSetColors": [
